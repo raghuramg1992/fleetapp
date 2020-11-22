@@ -1,6 +1,5 @@
 #FleetApp
 
-This application is developed based on technologies such as Java, SpringBoot, MySQL, Spring Security and Thymeleaf. 
-
 This is an application than can be used to manage a fleet of vehicles as well as it can be used for employee management.
 
+This is developed based on technologies such as Java, SpringBoot, MySQL, Spring Security and Thymeleaf. 
