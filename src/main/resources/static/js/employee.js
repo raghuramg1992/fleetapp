@@ -42,7 +42,6 @@ $('document').ready(function() {
 			$('#lastModifiedDateDetails').val(employee.lastModifiedDate.substr(0,19).replace("T", " "));
 		});			
 		$('#detailsModal').modal();		
-		
 	});	
 	
 	$('.table #deleteButton').on('click',function(event) {
